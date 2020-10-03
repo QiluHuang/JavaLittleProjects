@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e55b748d-9cfb-4ee9-9975-70bc7509f642" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iL6q5rIMynVxmQLbk7EYAUeKTb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.CheckingAccountTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.AccountTest" />
+      <module name="Override" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckingAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.CheckingAccountTest" />
+      <module name="Override" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KidsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.KidsTest" />
+      <module name="Override" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckingAccountTest" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.KidsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e55b748d-9cfb-4ee9-9975-70bc7509f642" name="Default Changelist" comment="" />
+      <created>1601674712742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601674712742</updated>
+      <workItem from="1601674715372" duration="5463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1396" height="253" key="GridCell.Tab.0.bottom" timestamp="1601683608763">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.0.bottom/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608763" />
+    <state width="1396" height="253" key="GridCell.Tab.0.center" timestamp="1601683608763">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.0.center/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608763" />
+    <state width="1396" height="253" key="GridCell.Tab.0.left" timestamp="1601683608762">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.0.left/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608762" />
+    <state width="1396" height="253" key="GridCell.Tab.0.right" timestamp="1601683608763">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.0.right/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608763" />
+    <state width="1396" height="253" key="GridCell.Tab.1.bottom" timestamp="1601683608764">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.1.bottom/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608764" />
+    <state width="1396" height="253" key="GridCell.Tab.1.center" timestamp="1601683608764">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.1.center/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608764" />
+    <state width="1396" height="253" key="GridCell.Tab.1.left" timestamp="1601683608764">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.1.left/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608764" />
+    <state width="1396" height="253" key="GridCell.Tab.1.right" timestamp="1601683608764">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.1.right/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608764" />
+    <state width="1396" height="253" key="GridCell.Tab.2.bottom" timestamp="1601683608765">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.2.bottom/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608765" />
+    <state width="1396" height="253" key="GridCell.Tab.2.center" timestamp="1601683608765">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.2.center/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608765" />
+    <state width="1396" height="253" key="GridCell.Tab.2.left" timestamp="1601683608765">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.2.left/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608765" />
+    <state width="1396" height="253" key="GridCell.Tab.2.right" timestamp="1601683608765">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1396" height="253" key="GridCell.Tab.2.right/0.23.1440.820/1440.23.1440.877@0.23.1440.820" timestamp="1601683608765" />
+  </component>
+</project>
